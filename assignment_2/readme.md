@@ -7,4 +7,4 @@ The assignment including following seedlab experiment:
 * Buffer Overflow Vulnerability
 * Return-to-libc Attack
 * Format String Vulnerability
-* Race Condition Attack
+* Race Condition Vulnerability
